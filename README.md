@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 Language: Python, JS, React, Java
 ### 🖥 OS: MacOS
 ### 🆚 Editor: VS Code
-### 🎸 My YouTube Channel: https://www.youtube.com/c/NZJonosong
+### ▶️ My YouTube Channel: https://www.youtube.com/c/NZJonosong
 
 
 <!--

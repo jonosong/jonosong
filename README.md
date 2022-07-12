@@ -5,9 +5,9 @@
 ### Auckland, NZ 🥝
 
 
-language: Python, JS, React, Java
-os:     MacOS
-editor: VS Code
+### Language: Python, JS, React, Java
+### OS: MacOS
+### Editor: VS Code
 
 
 <!--
